@@ -1,0 +1,7 @@
+path : /home/riccardo/Visual_Studio_Code/Grain-segmentation_prjt/YOLO_test/yolo-test-data
+train : images/Train
+val : images/Train
+
+# Classes
+names:
+  0: img
